@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1725502340 source:d:\atm\atm.c
+	"atm.h"
+
+1725501346 d:\atm\atm.h
+
+1725501661 source:d:\atm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"atm.h"
+
